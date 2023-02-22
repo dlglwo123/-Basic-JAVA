@@ -1,4 +1,4 @@
-package Section1;
+package Section1.Example;
 // 시간,분,초를 입력받아 현재 시각을 나타내는 메세지를 리턴한다.
 public class Example5 {
     public static void main(String[] args) // 실행 구문 구현

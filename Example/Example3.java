@@ -1,4 +1,4 @@
-package Section1;
+package Section1.Example;
 
 // 두 단어를 입력받아 두 단어의 평균 길이를 리턴해야 한다.
 public class Example3 {

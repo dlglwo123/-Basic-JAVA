@@ -1,4 +1,4 @@
-package Section1;
+package Section1.Example;
 // 숫자를 입력받아 알맞은 문자를 리턴한다.
 public class Example2 {
 

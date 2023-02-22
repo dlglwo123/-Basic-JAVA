@@ -1,4 +1,4 @@
-package Section1;
+package Section1.Example;
 
 // 문자 하나를 입력받아 알맞은 값(int) return 하기
 public class Example1 {

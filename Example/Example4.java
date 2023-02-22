@@ -1,4 +1,4 @@
-package Section1;
+package Section1.Example;
 // 두개의 문자열을 입력받아 대소문자를 구분하지 않고 서로 같은지 여부를 리턴해야한다.
 public class Example4 {
     public static void main(String[] args) {

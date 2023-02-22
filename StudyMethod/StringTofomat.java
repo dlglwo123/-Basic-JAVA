@@ -1,4 +1,4 @@
-package Section1;
+package Section1.StudyMethod;
 import java.time.LocalDateTime;
 //format 함수에 대해 정리노트
 

@@ -1,4 +1,4 @@
-package Section1;
+package Section1.StudyMethod;
 
 import java.util.Random;
 
